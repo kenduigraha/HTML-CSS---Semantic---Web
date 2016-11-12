@@ -15,7 +15,7 @@ gulp.task("run", function(){
       }
   })
 
-  gulp.watch("./resource/*.styl", ['css'])
-  gulp.watch("./style/*.css").on("change", browserSync.reload)
-  gulp.watch("./*.html").on("change", browserSync.reload)
+  gulp.watch("resource/*.styl", ['css'])
+  gulp.watch("style/*.css").on("change", browserSync.reload)
+  gulp.watch("*.html").on("change", browserSync.reload)
 })
