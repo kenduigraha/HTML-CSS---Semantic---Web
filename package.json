@@ -21,6 +21,7 @@
     "bower": "^1.8.0",
     "browser-sync": "^2.17.5",
     "gulp": "^3.9.1",
+    "gulp-stylus": "^2.6.0",
     "stylus": "^0.54.5"
   }
 }
