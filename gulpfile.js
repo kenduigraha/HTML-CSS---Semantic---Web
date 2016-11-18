@@ -8,7 +8,7 @@ gulp.task("css", function() {
     .pipe(gulp.dest('./style/'));
 })
 
-gulp.task("run", function(){
+gulp.task("default", function(){
   browserSync.init({
       server: {
           baseDir: "./"

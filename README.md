@@ -2,6 +2,10 @@
 
 ## Web's Screenshot
 
+### How to Run
+1. `npm install`
+2. `gulp`
+
 ### Real Website's Design
 ![](https://raw.githubusercontent.com/kenduigraha/HTML-CSS---Semantic---Web/master/Screen%20Shot%202016-11-12%20at%2011.17.04%20PM.png)
 
